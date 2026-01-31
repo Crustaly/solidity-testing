@@ -1,1 +1,8 @@
 node_modules
+.env
+.env.local
+.env*.local
+contracts/lib
+contracts/out
+app/.next
+app/node_modules
